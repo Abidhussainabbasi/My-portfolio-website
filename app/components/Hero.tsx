@@ -6,9 +6,9 @@ const Hero = () => {
   return (
     <section className="bg-gray-100 h-screen flex flex-col justify-center items-center text-center">
       <h1 className="text-4xl md:text-3xl font-bold mb-4">  <image>
-          src="/profile1.png" 
-          alt="Profile image"
-          className="rounded-full w-36 h-36 object-cover shadow-lg"</image> Salam, I'm Abid Hussain</h1>
+          src=/profile1.png 
+          alt=Profile image
+          className=rounded-full w-36 h-36 object-cover shadow-lg</image> Salam, I&apos;m Abid Hussain</h1>
       <p className="text-4xl md:text-3xl text-gray-700 mb-6">
         A passionate Web Developer and Designer
       </p>

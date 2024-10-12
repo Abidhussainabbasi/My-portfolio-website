@@ -10,9 +10,9 @@ const About = () => {
         {/* Profile Image */}
         <div className="mb-8 md:mb-0 md:w-1/3">
           <image>
-            src="profile.png" 
-            alt="Profile image" 
-            className="-full w-36 h-48 mx-auto md:mx-0"
+            src=profile.png
+            alt=Profile image
+            className=-full w-36 h-48 mx-auto md:mx-0
             </image> 
         </div>
 
