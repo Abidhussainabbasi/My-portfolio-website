@@ -10,7 +10,7 @@ const Contact = () => {
         <h2 className="text-3xl md:text-4xl font-bold mb-8">Get in Touch</h2>
         
         <p className="mb-8 text-lg text-gray-700">
-          I'm open to collaboration or any exciting opportunities! You can reach me at:
+        I&apos;m open to collaboration or any exciting opportunities! You can reach me at:
         </p>
         
         {/* Contact Buttons */}

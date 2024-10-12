@@ -31,11 +31,11 @@ const Projects = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projectList.map((project, index) => (
             <div key={index} className="bg-white p-6 rounded-lg shadow-md">
-              <img 
+              <image> 
                 src={project.image} 
                 alt={project.title} 
                 className="rounded-lg mb-4 w-full h-58 object-cover"
-              />
+              </image>
               <h3 className="text-xl font-semibold mb-2">{project.title}</h3>
               <p className="text-gray-700 mb-4">{project.description}</p>
               <a
